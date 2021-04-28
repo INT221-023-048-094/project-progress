@@ -29,8 +29,10 @@ Front End:
 ### Sittichok (62130500094)
 DevOps:
 * Basic DecOps as stated in requirements (+ Support for vue-router & Reverse Proxy Config + etc.)
+
 Back End:
 * Basic Backend as stated in requirements (+ Optimization for DevOps + etc.)
+
 Database:
 * Basic MySQL Initialization via Docker as stated in requirements
 
