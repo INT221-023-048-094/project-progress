@@ -5,7 +5,7 @@ http://52.230.2.188
 
 ## Done
 ### Napat (62130500023)
-28/4/2021
+28/4/2021 <br/>
 Back End:
 * CRUD
 
@@ -19,7 +19,7 @@ Front End:
 * PUT fetch API
 
 ### Pathinya (62130500048)
-28/4/2021
+28/4/2021 <br/>
 Front End:
 * BaseButton Component
 * MemberBlock Component
@@ -38,7 +38,7 @@ Front End:
 * Product responsive
 
 ### Sittichok (62130500094)
-28/4/2021
+28/4/2021 <br/>
 DevOps:
 * Basic DevOps as stated in requirements (+ Support for vue-router & Reverse Proxy Config + etc.)
 
