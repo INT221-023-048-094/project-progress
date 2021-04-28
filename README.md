@@ -1,6 +1,6 @@
 # Project Progress
 
-##Done
+## Done
 ### Napat (62130500023)
 Back End:
 * CRUD
@@ -28,7 +28,7 @@ Front End:
 
 ### Sittichok (62130500094)
 DevOps:
-* Basic DevOps as stated in requirements (+ Support for vue-router & Reverse Proxy Config + etc.)
+* Basic DecOps as stated in requirements (+ Support for vue-router & Reverse Proxy Config + etc.)
 Back End:
 * Basic Backend as stated in requirements (+ Optimization for DevOps + etc.)
 Database:
