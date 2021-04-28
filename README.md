@@ -36,6 +36,9 @@ Front End:
 * Navbar responsive
 * Footer responsive
 * Product responsive
+* Button responsive
+* AddEditProduct responsive
+* ShowProduct responsive
 
 ### Sittichok (62130500094)
 28/4/2021 <br/>
