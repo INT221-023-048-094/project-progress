@@ -1,5 +1,8 @@
 # Project Progress
 
+## Beta Version (Preview -- Improvement Ongoing)
+http://52.230.2.188
+
 ## Done
 ### Napat (62130500023)
 Back End:
