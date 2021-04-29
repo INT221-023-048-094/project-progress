@@ -1,13 +1,12 @@
 # Project Progress
 
-## Beta Version (Preview -- Improvement Ongoing)
-http://52.230.2.188
+## Clother Partner Website (Full version, Responsive included)
+http://clothespartner.duckdns.org/
 
 ## Done
 29/4/2021 <br/>
-Database - DONE <br/>
-Front End - DONE <br/>
-Back End - DONE
+All dev parts - DONE.
+Documents - ONGOING
 
 ### Napat (62130500023)
 28/4/2021 <br/>
@@ -50,6 +49,9 @@ Front End:
 * Button responsive
 * AddEditProduct responsive
 * ShowProduct responsive
+
+DevOps:
+* Website domain
 
 ### Sittichok (62130500094)
 28/4/2021 <br/>
