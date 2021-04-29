@@ -1,11 +1,11 @@
 # Project Progress
 
-## Clother Partner Website (Full version, Responsive included)
+## Clothes Partner Website (Full version, Responsive included)
 http://clothespartner.duckdns.org/
 
 ## Done
 29/4/2021 <br/>
-All dev parts - DONE.
+All dev parts - DONE. <br/>
 Documents - ONGOING
 
 ### Napat (62130500023)
