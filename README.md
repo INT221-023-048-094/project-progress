@@ -4,6 +4,11 @@
 http://52.230.2.188
 
 ## Done
+29/4/2021 <br/>
+Database - DONE
+Front End - DONE
+Back End - DONE
+
 ### Napat (62130500023)
 28/4/2021 <br/>
 Back End:
