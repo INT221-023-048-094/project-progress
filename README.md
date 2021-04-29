@@ -18,6 +18,12 @@ Front End:
 * ProductList Page
 * PUT fetch API
 
+29/4/2021 <br/>
+Front End:
+* Product Paging
+* ProductList responsive
+* Team Responsive
+
 ### Pathinya (62130500048)
 28/4/2021 <br/>
 Front End:
