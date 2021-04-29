@@ -1,7 +1,7 @@
 # Project Progress
 
 ## Clothes Partner Website (Full version, Responsive included)
-http://clothespartner.duckdns.org/
+* http://clothespartner.duckdns.org/
 
 ## Done
 29/4/2021 <br/>
