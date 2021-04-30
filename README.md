@@ -2,7 +2,7 @@
 
 ## Clothes Partner Website (Full version, Responsive included, HTTPS Supported!)
 * https://clothespartner.duckdns.org/
-* --HTTPS Cert Valid until: Wed, 29 Sep 2021 19:21:40 UTC--
+* --HTTPS Cert Valid Until: Thu, 29 Jul 2021 03:54:56 UTC--
 
 ## Done
 29/4/2021 <br/>
