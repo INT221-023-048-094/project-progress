@@ -13,7 +13,8 @@ Documents - ONGOING
 Front End Document - DONE <br/>
 Back End Document - DONE <br/>
 Database Document - DONE <br/>
-DevOps Document - ONGOING
+DevOps Document - DONE <br/>
+Everything DONE!!
 
 ### Napat (62130500023)
 28/4/2021 <br/>
