@@ -9,6 +9,12 @@
 All dev parts - DONE. <br/>
 Documents - ONGOING
 
+5/5/2021 <br/>
+Front End Document - DONE <br/>
+Back End Document - DONE <br/>
+Database Document - DONE <br/>
+DevOps Document - ONGOING
+
 ### Napat (62130500023)
 28/4/2021 <br/>
 Back End:
